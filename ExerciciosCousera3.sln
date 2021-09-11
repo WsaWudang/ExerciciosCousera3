@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ExerciciosCousera3", "ExerciciosCousera3.pyproj", "{7AFFE560-D90C-47DD-8EDA-8365A7603ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFFE560-D90C-47DD-8EDA-8365A7603ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFFE560-D90C-47DD-8EDA-8365A7603ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7B1339-6484-4191-805C-BE906D6EFE6D}
+	EndGlobalSection
+EndGlobal
